@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DispMoviles</string>
+    <string name="editar_mensaje">Ingresar un mensaje</string>
+    <string name="boton_enviar">enviar</string>
+</resources>
